@@ -31,10 +31,14 @@ img{
     height: 80px;
 }
 .texto-post {
+    margin-left: 40px;
+    }
+    button{
   width: 100px;
   padding: 10px;
   border-radius: 10px;
-  backg
+  background-color: gray
+  color: white;
 
 
 }
